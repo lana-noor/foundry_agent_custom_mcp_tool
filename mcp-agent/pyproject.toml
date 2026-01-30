@@ -1,0 +1,11 @@
+[project]
+name = "mcp-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "agent-framework>=1.0.0b260128",
+    "azure-identity>=1.25.1",
+    "python-dotenv>=1.2.1",
+]
