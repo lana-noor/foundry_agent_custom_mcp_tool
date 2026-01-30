@@ -1,0 +1,65 @@
+ticker,company_name,sector,industry,investment_usd,revenue_usd,cogs_usd,gross_margin_pct,fiscal_year,imports_into_us,affected_cogs_pct,exposure_level,confidence,data_source
+APEX0,ApexTech Holdings,Information Technology,Software,1000000,78534081823,42702695828,45.63,2025,TRUE,0.3068,high,0.808,synthetic
+QUAN0,QuantumSoft Holdings,Information Technology,Semiconductors,1000000,82820441054,27078566255,67.3,2025,TRUE,0.2796,medium,0.56,synthetic
+NOVA0,NovaSemi Holdings,Information Technology,Technology Hardware,1000000,30143367102,12770574415,57.63,2025,TRUE,0.2379,medium,0.777,synthetic
+VERT0,Vertex Systems Holdings,Information Technology,IT Services,1000000,67668270269,33488339751,50.51,2025,TRUE,0.4937,high,0.552,synthetic
+BLUE0,BlueChip IT Holdings,Information Technology,Software,1000000,97669213961,36671386193,62.45,2025,TRUE,0.3143,high,0.885,synthetic
+NEUR0,NeuralWorks Holdings,Information Technology,Semiconductors,1000000,43708372688,23026162506,47.32,2025,TRUE,0.332,medium,0.761,synthetic
+CLOU0,CloudForge Holdings,Information Technology,Technology Hardware,1000000,97819751427,35955317789,63.24,2025,TRUE,0.5035,high,0.682,synthetic
+CIPH0,CipherLogic Holdings,Information Technology,IT Services,1000000,68484672596,23466193208,65.74,2025,TRUE,0.5129,high,0.752,synthetic
+DATA0,DataPulse Holdings,Information Technology,Software,1000000,86025761165,46328649270,46.15,2025,TRUE,0.303,medium,0.578,synthetic
+SYNA1,SynapseCore Holdings,Information Technology,Semiconductors,1000000,31770951932,16671795673,47.53,2025,TRUE,0.3647,high,0.678,synthetic
+APEX1,ApexTech Holdings,Information Technology,Technology Hardware,1000000,47570811218,23672341318,50.24,2025,TRUE,0.4024,high,0.777,synthetic
+QUAN1,QuantumSoft Holdings,Information Technology,IT Services,1000000,75050065652,38066544413,49.28,2025,TRUE,0.4164,high,0.683,synthetic
+SKYL1,SkyLink Media Holdings,Communication Services,Internet Services,1000000,79193297999,49258235159,37.8,2025,TRUE,0.13,low,0.845,synthetic
+TELE1,Telestar Holdings,Communication Services,Media,1000000,62751993189,44189350281,29.58,2025,FALSE,0.0392,none,0.644,synthetic
+STRE1,StreamHub Holdings,Communication Services,Telecom Services,1000000,19245678956,10804871688,43.86,2025,TRUE,0.1564,low,0.779,synthetic
+NETW1,NetWave Holdings,Communication Services,Entertainment,1000000,33463656382,18976921029,43.29,2025,TRUE,0.0963,low,0.636,synthetic
+ECHO1,EchoComm Holdings,Communication Services,Internet Services,1000000,46225346331,32239945378,30.25,2025,TRUE,0.1451,low,0.69,synthetic
+BRIG1,BrightCast Holdings,Communication Services,Media,1000000,19887698455,10948028418,44.95,2025,TRUE,0.0953,low,0.566,synthetic
+URBA1,UrbanCart Holdings,Consumer Discretionary,E-Commerce,1000000,13635965644,9197605982,32.55,2025,TRUE,0.4119,high,0.572,synthetic
+MOTO2,MotoDrive Holdings,Consumer Discretionary,Automobiles,1000000,40017070791,24041284675,39.92,2025,TRUE,0.4115,high,0.851,synthetic
+STYL2,StyleHouse Holdings,Consumer Discretionary,Retail,1000000,4113659128,2697966525,34.41,2025,TRUE,0.3978,high,0.643,synthetic
+HOME2,HomeWorks Retail Holdings,Consumer Discretionary,Consumer Durables,1000000,65173294462,50684591038,22.23,2025,TRUE,0.312,medium,0.884,synthetic
+NEXT2,NextGear Holdings,Consumer Discretionary,E-Commerce,1000000,87957735217,65732767296,25.27,2025,TRUE,0.2943,high,0.869,synthetic
+PRIM2,PrimeLiving Holdings,Consumer Discretionary,Automobiles,1000000,87440301274,64733020524,25.97,2025,TRUE,0.3957,high,0.603,synthetic
+TREN2,TrendMakers Holdings,Consumer Discretionary,Retail,1000000,76963547607,53268333353,30.79,2025,TRUE,0.4262,high,0.55,synthetic
+NOVA2,NovaRetail Holdings,Consumer Discretionary,Consumer Durables,1000000,34443137529,27420342000,20.39,2025,TRUE,0.5369,high,0.841,synthetic
+PURE2,PureBeverage Holdings,Consumer Staples,Beverages,1000000,22910960527,16984152215,25.87,2025,TRUE,0.2825,medium,0.58,synthetic
+DAIL2,DailyGoods Holdings,Consumer Staples,Household Products,1000000,35047351506,25921656310,26.04,2025,TRUE,0.2408,medium,0.595,synthetic
+FRES2,FreshPack Foods Holdings,Consumer Staples,Food & Staples Retailing,1000000,34319201711,22909078219,33.25,2025,TRUE,0.1433,low,0.698,synthetic
+HOUS3,HouseCare Holdings,Consumer Staples,Packaged Foods,1000000,16402277970,10974855824,33.09,2025,TRUE,0.1865,medium,0.659,synthetic
+STAP3,StapleMart Holdings,Consumer Staples,Beverages,1000000,69670156253,45461051317,34.75,2025,TRUE,0.1582,low,0.592,synthetic
+GREE3,GreenHarvest Holdings,Consumer Staples,Household Products,1000000,17279418918,12083275880,30.07,2025,TRUE,0.1653,low,0.627,synthetic
+FIRS3,FirstCapital Holdings,Financials,Banking,1000000,12235197977,8629907938,29.47,2025,FALSE,0.02,none,0.851,synthetic
+ATLA3,Atlas Bank Holdings,Financials,Insurance,1000000,12219452587,9339319118,23.57,2025,FALSE,0.0444,none,0.596,synthetic
+SECU3,SecureLife Insurance Holdings,Financials,Capital Markets,1000000,1.1252E+11,80377686013,28.57,2025,FALSE,0.0395,none,0.833,synthetic
+PRIM3,PrimeInvest Holdings,Financials,Payments,1000000,26087550066,20490736932,21.45,2025,FALSE,0.0313,none,0.713,synthetic
+UNIT3,Unity Finance Holdings,Financials,Banking,1000000,88572798537,61911971471,30.1,2025,TRUE,0.062,none,0.691,synthetic
+BEAC3,Beacon Payments Holdings,Financials,Insurance,1000000,43359102226,29083079642,32.93,2025,FALSE,0.0163,none,0.707,synthetic
+NORT3,NorthStar Capital Holdings,Financials,Capital Markets,1000000,52938270221,40138761456,24.18,2025,FALSE,0.0219,none,0.705,synthetic
+FIRS4,FirstCapital Holdings,Financials,Payments,1000000,1.03916E+11,74555015190,28.25,2025,FALSE,0.0046,none,0.843,synthetic
+BION4,BioNova Holdings,Health Care,Pharmaceuticals,1000000,77581708068,32460827034,58.16,2025,TRUE,0.2305,medium,0.72,synthetic
+MEDI4,MediCore Holdings,Health Care,Biotechnology,1000000,18672289338,10264902975,45.03,2025,TRUE,0.0839,none,0.895,synthetic
+PHAR4,PharmaQuest Holdings,Health Care,Health Care Equipment,1000000,22685838537,10298970280,54.6,2025,TRUE,0.1719,low,0.885,synthetic
+HEAL4,HealthSphere Holdings,Health Care,Managed Care,1000000,79642969780,40702170411,48.89,2025,TRUE,0.204,medium,0.654,synthetic
+GENE4,Genex Labs Holdings,Health Care,Pharmaceuticals,1000000,77559330468,39183355910,49.48,2025,TRUE,0.2165,medium,0.57,synthetic
+CARE4,CareBridge Holdings,Health Care,Biotechnology,1000000,47565852368,24938177270,47.57,2025,TRUE,0.2303,medium,0.886,synthetic
+MACH4,MachinaWorks Holdings,Industrials,Machinery,1000000,6646464984,5131910123,22.79,2025,TRUE,0.3515,medium,0.632,synthetic
+AERO4,AeroDynamics Holdings,Industrials,Aerospace & Defense,1000000,8953423609,5967070969,33.35,2025,TRUE,0.2323,medium,0.767,synthetic
+TRAN4,TransLogix Holdings,Industrials,Transportation,1000000,26315045089,18748131680,28.76,2025,TRUE,0.3602,medium,0.621,synthetic
+BUIL5,BuildRight Holdings,Industrials,Engineering & Construction,1000000,43539124446,33272472947,23.58,2025,TRUE,0.2872,medium,0.655,synthetic
+STEE5,SteelCore Holdings,Industrials,Machinery,1000000,20338277384,13976877617,31.28,2025,TRUE,0.1689,low,0.899,synthetic
+PROM5,ProMotion Logistics Holdings,Industrials,Aerospace & Defense,1000000,59773593976,47162016691,21.1,2025,TRUE,0.1939,medium,0.877,synthetic
+TERR5,TerraOil Holdings,Energy,Oil & Gas,1000000,79635183111,57186778630,28.19,2025,TRUE,0.0682,none,0.842,synthetic
+SUNP5,SunPeak Energy Holdings,Energy,Oil & Gas Equipment,1000000,64207973483,48685588996,24.18,2025,TRUE,0.1577,low,0.553,synthetic
+HYDR5,HydraFuel Holdings,Energy,Coal & Consumables,1000000,74088059755,59647792159,19.49,2025,TRUE,0.1318,low,0.597,synthetic
+CHEM5,ChemEx Holdings,Materials,Chemicals,1000000,7540576180,5911394003,21.61,2025,TRUE,0.2154,medium,0.762,synthetic
+META5,MetalFusion Holdings,Materials,Metals & Mining,1000000,36445384983,28043280622,23.05,2025,TRUE,0.2311,medium,0.721,synthetic
+FORE5,ForestBond Holdings,Materials,Paper & Forest Products,1000000,45456151572,30595828462,32.69,2025,TRUE,0.1292,low,0.647,synthetic
+GRID5,GridPower Holdings,Utilities,Electric Utilities,1000000,1102824984,864981053.5,21.57,2025,FALSE,0.0432,none,0.809,synthetic
+AQUA6,AquaFlow Holdings,Utilities,Gas Utilities,1000000,16998732213,14208338680,16.42,2025,FALSE,0.0006,none,0.859,synthetic
+GASL6,GasLine Utilities Holdings,Utilities,Water Utilities,1000000,27213928575,22265387443,18.18,2025,TRUE,0.0647,none,0.602,synthetic
+PRIM6,PrimeREIT Holdings,Real Estate,REITs,1000000,2985187626,2548637512,14.62,2025,TRUE,0.0754,none,0.851,synthetic
+URBA6,UrbanSpace RE Holdings,Real Estate,Real Estate Management,1000000,18029030412,15658005926,13.15,2025,FALSE,0.0157,none,0.823,synthetic
+LOGI6,LogiPark REIT Holdings,Real Estate,Diversified REITs,1000000,17740626678,14885155576,16.1,2025,FALSE,0.0401,none,0.875,synthetic
